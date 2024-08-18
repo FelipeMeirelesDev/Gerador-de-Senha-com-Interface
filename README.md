@@ -2,6 +2,7 @@
 
 Um simples gerador de Senhas com interface gráfica feita com python. Foi utilizada a biblioteca Tkinter para fazer a interface gráfica do projeto.
 
+[Tutorial do Gerador de Senhas](https://youtu.be/rOqVgwLeiQM)
 ## 🚀Bibliotecas Utilizadas:
 •tkinter (Interface Gráfica)
 
